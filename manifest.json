@@ -1,0 +1,10 @@
+{
+  "domain": "docker-voltronic-homeassistant-master",
+  "name": "Voltronic Inverter Integration",
+  "documentation": "https://github.com/ned-kelly/docker-voltronic-homeassistant",
+  "dependencies": [],
+  "after_dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "0.0.1"
+}
